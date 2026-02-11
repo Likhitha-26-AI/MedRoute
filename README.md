@@ -147,6 +147,7 @@ This is if the patiient is
 inorder to solve this a voice input is added just one click the speaker will deliver the situation and explain the seriousness of the injury to ARIA and she will assist the user in their next steps in such emergency sitautions
 This is if the patiient is
 in their next steps in such emergency sitautions
-This is if the patiient is 
+This is if the patiient isif the patiient is 
+ 
 
 
