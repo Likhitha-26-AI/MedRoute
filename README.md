@@ -148,7 +148,6 @@ inorder to solve this a voice input is added just one click the speaker will del
 
 This is if the patiient is
 in their next steps in such emergency sitautions
-This is if the patiient isif the patiient is 
  
 
 
