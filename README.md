@@ -110,7 +110,7 @@ Technology Stack
 Python 3
 Gradio (UI + deployment to Hugging Face Spaces)
 Hugging Face Spaces (spark-2026/mers-medgemma) for permanent hosting
-Planned (not fully wired in yet, but explored in Colab today):
+Planned (not fully wired in yet, but explored in Col
 
 google/medgemma-1.5-4b-it
 google/gemma-2b-it
